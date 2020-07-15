@@ -1,0 +1,20 @@
+{
+  "name": "testing_and_cicdwith_nodejs",
+  "version": "1.0.0",
+  "description": "Running tests and CI/CD Pipeline with CircleCI",
+  "main": "math_fuction.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "Testing",
+    "test",
+    "ci",
+    "cd"
+  ],
+  "author": "harsh",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^26.1.0"
+  }
+}
