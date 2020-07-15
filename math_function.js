@@ -14,9 +14,14 @@ function division(a,b){
     return a/b;
 }
 
+function mod(a,b){
+    return a%b;
+}
+
 module.exports = {
     sum: sum,
     prod: prod,
     sub: sub,
-    division: division
+    division: division,
+    mod: mod
 };
